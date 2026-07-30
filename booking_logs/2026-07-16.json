@@ -1,0 +1,702 @@
+[
+  {
+    "booking_id": "A00833159.1",
+    "id": "710393",
+    "lastname": "BORBA",
+    "firstname": "ALEXANDER",
+    "middle": "LULY",
+    "sex": "M",
+    "dob": "1994-03-21",
+    "booked_at": "2026-07-15 23:13:08",
+    "charges": [
+      {
+        "code": "30605(A)",
+        "name": "illegally possess any assault weapon"
+      },
+      {
+        "code": "2006(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "2800.2(A)",
+        "name": "disregard safety — evade police"
+      },
+      {
+        "code": "11377(A)",
+        "name": "possession of a controlled substance"
+      },
+      {
+        "code": "12022.1",
+        "name": "unknown offense"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833154.1",
+    "id": "705360",
+    "lastname": "BRAVOBRUNO",
+    "firstname": "ANGEL",
+    "middle": "",
+    "sex": "M",
+    "dob": "2003-01-28",
+    "booked_at": "2026-07-15 20:42:03",
+    "charges": [
+      {
+        "code": "23152(A)",
+        "name": "driving under the influence"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833151.1",
+    "id": "474055",
+    "lastname": "BROOKEY",
+    "firstname": "CONNER",
+    "middle": "RICHARD",
+    "sex": "M",
+    "dob": "1992-09-18",
+    "booked_at": "2026-07-15 19:21:31",
+    "charges": [
+      {
+        "code": "11550(A)",
+        "name": "being under the influence of a controlled substance"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833157.1",
+    "id": "705769",
+    "lastname": "BROWN",
+    "firstname": "CHRISTOPHER",
+    "middle": "ALLEN",
+    "sex": "M",
+    "dob": "1976-03-20",
+    "booked_at": "2026-07-15 21:17:17",
+    "charges": [
+      {
+        "code": "148(A)(1)",
+        "name": "resisting or obstructing a peace officer"
+      },
+      {
+        "code": "11350(A)",
+        "name": "possession of a controlled substance"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833132.1",
+    "id": "472662",
+    "lastname": "BUCHANAN",
+    "firstname": "CONNER",
+    "middle": "MITCHELL",
+    "sex": "M",
+    "dob": "1990-10-05",
+    "booked_at": "2026-07-15 01:18:06",
+    "charges": [
+      {
+        "code": "647(F)",
+        "name": "public intoxication"
+      },
+      {
+        "code": "148(A)(1)",
+        "name": "resisting or obstructing a peace officer"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833134.1",
+    "id": "710988",
+    "lastname": "CHAPMAN",
+    "firstname": "AMBER",
+    "middle": "RAE",
+    "sex": "F",
+    "dob": "1994-07-18",
+    "booked_at": "2026-07-15 03:36:53",
+    "charges": [
+      {
+        "code": "415(2)",
+        "name": "disturb by loud or unreasonable noise"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833021.3",
+    "id": "703589",
+    "lastname": "CRIVELLO",
+    "firstname": "MICHAEL",
+    "middle": "ANTHONY",
+    "sex": "M",
+    "dob": "1981-10-07",
+    "booked_at": "2026-07-15 00:42:06",
+    "charges": [
+      {
+        "code": "314.1",
+        "name": "indecent exposure with prior"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833143.1",
+    "id": "421925",
+    "lastname": "DAMON",
+    "firstname": "THOR",
+    "middle": "PHELAN",
+    "sex": "M",
+    "dob": "1969-11-19",
+    "booked_at": "2026-07-15 13:27:01",
+    "charges": [
+      {
+        "code": "3056",
+        "name": "violation parole — misdemeanor"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00832978.3",
+    "id": "440374",
+    "lastname": "DEAN",
+    "firstname": "ALEXANDER",
+    "middle": "JAMES",
+    "sex": "M",
+    "dob": "1990-07-30",
+    "booked_at": "2026-07-15 15:30:53",
+    "charges": [
+      {
+        "code": "10851(A)",
+        "name": "take vehicle without owner's consent"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833153.1",
+    "id": "410247",
+    "lastname": "DOTY",
+    "firstname": "JERRY",
+    "middle": "ALAN",
+    "sex": "M",
+    "dob": "1974-04-29",
+    "booked_at": "2026-07-15 20:36:20",
+    "charges": [
+      {
+        "code": "14601.2(A)",
+        "name": "unknown offense"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833160.2",
+    "id": "710993",
+    "lastname": "ESPINOZA",
+    "firstname": "CRISTHIAN",
+    "middle": "IRSAEL REYES",
+    "sex": "M",
+    "dob": "1984-02-13",
+    "booked_at": "2026-07-15 23:41:50",
+    "charges": [
+      {
+        "code": "11550(A)",
+        "name": "being under the influence of a controlled substance"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833133.1",
+    "id": "409322",
+    "lastname": "GARCIA",
+    "firstname": "ANTHONY",
+    "middle": "O",
+    "sex": "M",
+    "dob": "1974-09-21",
+    "booked_at": "2026-07-15 01:35:21",
+    "charges": [
+      {
+        "code": "11550(A)",
+        "name": "being under the influence of a controlled substance"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833130.1",
+    "id": "710987",
+    "lastname": "HERNANDEZGARCIA",
+    "firstname": "SHANTEL",
+    "middle": "MONIQUE",
+    "sex": "F",
+    "dob": "1991-05-02",
+    "booked_at": "2026-07-15 00:09:37",
+    "charges": [
+      {
+        "code": "11377(A)",
+        "name": "possession of a controlled substance"
+      },
+      {
+        "code": "11364(A)",
+        "name": "possession of drug paraphernalia"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833141.1",
+    "id": "703856",
+    "lastname": "HERNANDEZVAZQUEZ",
+    "firstname": "GILBERTO",
+    "middle": "",
+    "sex": "M",
+    "dob": "1977-06-01",
+    "booked_at": "2026-07-15 13:10:49",
+    "charges": [
+      {
+        "code": "23152(B)",
+        "name": "driving with a blood alcohol level of 0.08% or higher"
+      },
+      {
+        "code": "23578",
+        "name": "unknown offense"
+      },
+      {
+        "code": "23540(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "23152(B)",
+        "name": "driving with a blood alcohol level of 0.08% or higher"
+      },
+      {
+        "code": "23578",
+        "name": "unknown offense"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833149.1",
+    "id": "0000258",
+    "lastname": "HICKS",
+    "firstname": "SUSAN",
+    "middle": "IRENE",
+    "sex": "F",
+    "dob": "1958-03-20",
+    "booked_at": "2026-07-15 18:01:18",
+    "charges": [
+      {
+        "code": "647(F)",
+        "name": "public intoxication"
+      },
+      {
+        "code": "148(A)(1)",
+        "name": "resisting or obstructing a peace officer"
+      },
+      {
+        "code": "243(B)",
+        "name": "battery on peace officer or emergency personnel"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833152.1",
+    "id": "710990",
+    "lastname": "HOFF",
+    "firstname": "EDWARD",
+    "middle": "ROBERT",
+    "sex": "M",
+    "dob": "1956-09-16",
+    "booked_at": "2026-07-15 19:24:34",
+    "charges": [
+      {
+        "code": "23152(A)",
+        "name": "driving under the influence"
+      },
+      {
+        "code": "23152(B)",
+        "name": "driving with a blood alcohol level of 0.08% or higher"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833155.1",
+    "id": "0000072865",
+    "lastname": "JERDE",
+    "firstname": "DAVID",
+    "middle": "ARNOLD",
+    "sex": "M",
+    "dob": "1963-10-05",
+    "booked_at": "2026-07-15 20:55:58",
+    "charges": [
+      {
+        "code": "11350(A)",
+        "name": "possession of a controlled substance"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833156.1",
+    "id": "710991",
+    "lastname": "JOHNSON",
+    "firstname": "SAMUEL",
+    "middle": "CHARLES",
+    "sex": "M",
+    "dob": "1977-01-29",
+    "booked_at": "2026-07-15 21:05:29",
+    "charges": [
+      {
+        "code": "23152(B)",
+        "name": "driving with a blood alcohol level of 0.08% or higher"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833136.1",
+    "id": "463415",
+    "lastname": "KELLEY",
+    "firstname": "RANDALL",
+    "middle": "JASON",
+    "sex": "M",
+    "dob": "1982-09-03",
+    "booked_at": "2026-07-15 10:35:49",
+    "charges": [
+      {
+        "code": "646.9(B)",
+        "name": "stalking — temporary restraining order"
+      },
+      {
+        "code": "25850(A)",
+        "name": "carrying a loaded firearm in public"
+      },
+      {
+        "code": "11370.1(A)",
+        "name": "poss controlled substance while armed with loaded firearm"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833145.1",
+    "id": "474358",
+    "lastname": "MANZANOLLAMAS",
+    "firstname": "ALEJANDRO",
+    "middle": "",
+    "sex": "M",
+    "dob": "1998-01-28",
+    "booked_at": "2026-07-15 14:37:19",
+    "charges": [
+      {
+        "code": "69",
+        "name": "resisting an executive officer"
+      },
+      {
+        "code": "243(E)(1)",
+        "name": "domestic battery"
+      },
+      {
+        "code": "148(A)(2)",
+        "name": "obstruct or disrupts public safety radio frequency"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833138.1",
+    "id": "477249",
+    "lastname": "MARTINEZROJAS",
+    "firstname": "GERARDO",
+    "middle": "",
+    "sex": "M",
+    "dob": "2003-11-15",
+    "booked_at": "2026-07-15 11:57:54",
+    "charges": [
+      {
+        "code": "23152(B)",
+        "name": "driving with a blood alcohol level of 0.08% or higher"
+      },
+      {
+        "code": "14601.1(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "23540(A)",
+        "name": "unknown offense"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833146.1",
+    "id": "710989",
+    "lastname": "MARTINEZVALDEZ",
+    "firstname": "SANTOS",
+    "middle": "ENRIQUE",
+    "sex": "M",
+    "dob": "1991-09-30",
+    "booked_at": "2026-07-15 14:55:11",
+    "charges": [
+      {
+        "code": "4462.5",
+        "name": "display on vehicle or present to officer unlawful registration"
+      },
+      {
+        "code": "16020(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "4462.5",
+        "name": "display on vehicle or present to officer unlawful registration"
+      },
+      {
+        "code": "16020(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "29800(A)(1)",
+        "name": "felon or addict or possess firearm"
+      },
+      {
+        "code": "11370.1(A)",
+        "name": "poss controlled substance while armed with loaded firearm"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833139.1",
+    "id": "408934",
+    "lastname": "MISSAMORE",
+    "firstname": "NICOLE",
+    "middle": "KAY",
+    "sex": "F",
+    "dob": "1982-05-21",
+    "booked_at": "2026-07-15 12:38:24",
+    "charges": [
+      {
+        "code": "11364(A)",
+        "name": "possession of drug paraphernalia"
+      },
+      {
+        "code": "530.5(A)",
+        "name": "identity theft"
+      },
+      {
+        "code": "459.5(A)",
+        "name": "shoplifting"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833137.1",
+    "id": "458119",
+    "lastname": "OLIVER",
+    "firstname": "DAVID",
+    "middle": "BRADLEY",
+    "sex": "M",
+    "dob": "1995-03-30",
+    "booked_at": "2026-07-15 11:00:49",
+    "charges": [
+      {
+        "code": "594(B)(1)",
+        "name": "felony vandalism"
+      },
+      {
+        "code": "602.5(B)",
+        "name": "unauth entry occu dwling"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833131.1",
+    "id": "452192",
+    "lastname": "ORTIZ",
+    "firstname": "DANNY",
+    "middle": "",
+    "sex": "M",
+    "dob": "1983-11-09",
+    "booked_at": "2026-07-15 00:22:32",
+    "charges": [
+      {
+        "code": "11395(B)(1)",
+        "name": "poss cntl sub with 2 or more priors"
+      },
+      {
+        "code": "11364(A)",
+        "name": "possession of drug paraphernalia"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833135.1",
+    "id": "416871",
+    "lastname": "PONCE",
+    "firstname": "ARNOLDO",
+    "middle": "GIOVANY",
+    "sex": "M",
+    "dob": "1987-03-03",
+    "booked_at": "2026-07-15 04:06:59",
+    "charges": [
+      {
+        "code": "11378",
+        "name": "possess controlled substance for sale"
+      },
+      {
+        "code": "11379",
+        "name": "unknown offense"
+      },
+      {
+        "code": "11364(A)",
+        "name": "possession of drug paraphernalia"
+      },
+      {
+        "code": "14601.2(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "14601.2(A)",
+        "name": "unknown offense"
+      },
+      {
+        "code": "11357(B)",
+        "name": "possess marijuana over 1 oz or 28.5 grams"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833150.1",
+    "id": "429186",
+    "lastname": "QUINN",
+    "firstname": "SEAN",
+    "middle": "SERGE",
+    "sex": "M",
+    "dob": "1980-01-13",
+    "booked_at": "2026-07-15 18:45:56",
+    "charges": [
+      {
+        "code": "21310",
+        "name": "concealed weapon (knife)"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833080.3",
+    "id": "433924",
+    "lastname": "STEPHENSON",
+    "firstname": "JOSHUA",
+    "middle": "ALLEN",
+    "sex": "M",
+    "dob": "1987-04-12",
+    "booked_at": "2026-07-15 16:39:40",
+    "charges": [
+      {
+        "code": "666.1(A)(1)",
+        "name": "petty theft with 2 or more priors"
+      },
+      {
+        "code": "666.1(A)(1)",
+        "name": "petty theft with 2 or more priors"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833140.1",
+    "id": "710977",
+    "lastname": "TARANGO",
+    "firstname": "JACOB",
+    "middle": "PAUL",
+    "sex": "M",
+    "dob": "1996-05-26",
+    "booked_at": "2026-07-15 12:58:14",
+    "charges": [
+      {
+        "code": "11550(A)",
+        "name": "being under the influence of a controlled substance"
+      },
+      {
+        "code": "148(A)(1)",
+        "name": "resisting or obstructing a peace officer"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833148.1",
+    "id": "406096",
+    "lastname": "VILLERS",
+    "firstname": "DAVID",
+    "middle": "BRUCE",
+    "sex": "M",
+    "dob": "1982-04-30",
+    "booked_at": "2026-07-15 17:33:05",
+    "charges": [
+      {
+        "code": "2800.2(A)",
+        "name": "disregard safety — evade police"
+      },
+      {
+        "code": "11378",
+        "name": "possess controlled substance for sale"
+      },
+      {
+        "code": "11395(B)(1)",
+        "name": "poss cntl sub with 2 or more priors"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833142.1",
+    "id": "468076",
+    "lastname": "WILSON",
+    "firstname": "DEIDRA",
+    "middle": "LYNN",
+    "sex": "F",
+    "dob": "1996-12-11",
+    "booked_at": "2026-07-15 13:10:52",
+    "charges": [
+      {
+        "code": "602(O)(1)",
+        "name": "trespas — refuse leave prop"
+      },
+      {
+        "code": "5652(A)",
+        "name": "put poltnt near waters"
+      },
+      {
+        "code": "5650(A)(1)",
+        "name": "polut water — petroleum"
+      },
+      {
+        "code": "369",
+        "name": "unknown offense"
+      },
+      {
+        "code": "11550(A)",
+        "name": "being under the influence of a controlled substance"
+      },
+      {
+        "code": "11364(A)",
+        "name": "possession of drug paraphernalia"
+      },
+      {
+        "code": "148(A)(1)",
+        "name": "resisting or obstructing a peace officer"
+      },
+      {
+        "code": "602(O)(1)",
+        "name": "trespas — refuse leave prop"
+      },
+      {
+        "code": "602(K)",
+        "name": "tresp inj prop or obstr bus"
+      },
+      {
+        "code": "11364(A)",
+        "name": "possession of drug paraphernalia"
+      }
+    ]
+  },
+  {
+    "booking_id": "A00833144.1",
+    "id": "710811",
+    "lastname": "YUKICH",
+    "firstname": "OLIVIA",
+    "middle": "JANE",
+    "sex": "F",
+    "dob": "1997-10-05",
+    "booked_at": "2026-07-15 13:44:05",
+    "charges": [
+      {
+        "code": "243(E)(1)",
+        "name": "domestic battery"
+      }
+    ]
+  }
+]

@@ -1439,7 +1439,10 @@ def main(argv: list[str] | None = None) -> int:
     """Create QApplication, show the main window, and run Qt's event loop."""
 
     todays_log = "booking_logs/" + datetime.now().strftime("%Y-%m-%d") + ".json"
-    here = os.path.dirname(os.readlink(__file__))
+    if os.path.islink(__file__):
+        here = os.path.dirname(os.readlink(__file__))
+    else:
+        here = os.path.dirname(__file__)
 
     today = os.path.join(here, todays_log)
 
