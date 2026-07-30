@@ -909,7 +909,7 @@ class MainWindow(QMainWindow):
 
         heading_layout = QHBoxLayout()
         heading_text = QVBoxLayout()
-        title = QLabel("James' Creepy Private Repository of SLO County Sheriff's Jail Bookings")
+        title = QLabel("James' Creepy Private Repository of SLO County Sheriff's Jail Bookings  ")
         title.setObjectName("pageTitle")
         self.subtitle = QLabel("Search normalized SLO Sheriff booking archives")
         self.subtitle.setObjectName("pageSubtitle")
@@ -1439,7 +1439,7 @@ def main(argv: list[str] | None = None) -> int:
     """Create QApplication, show the main window, and run Qt's event loop."""
 
     todays_log = "booking_logs/" + datetime.now().strftime("%Y-%m-%d") + ".json"
-    here = os.path.dirname(__file__)
+    here = os.path.dirname(os.readlink(__file__))
 
     today = os.path.join(here, todays_log)
 
