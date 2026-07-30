@@ -1462,7 +1462,7 @@ def ensure_offense_workbook(
         return cache_path if cache_path.exists() else None
 
     cache_path.parent.mkdir(parents=True, exist_ok=True)
-    temporary = cache_path.with_suffix(".download")
+    temporary = cache_path.with_suffix(".xlsx")
     try:
         logging.info("Downloading California DOJ offense-code workbook")
         with requests.get(

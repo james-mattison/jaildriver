@@ -1,0 +1,5 @@
+db:
+  host: <db host>
+  user: <db user>
+  password: <db password>
+  database: <database name>
